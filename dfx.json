@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "zariya_final_backend": {
+      "main": "src/zariya_final_backend/main.mo",
+      "type": "motoko"
+    },
+    "zariya_final_frontend": {
+      "dependencies": [
+        "zariya_final_backend"
+      ],
+      "source": [
+        "src/zariya_final_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "zariya_final_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
