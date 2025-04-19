@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { zariya_final_backend } from 'declarations/zariya_final_backend';
+import Auth from './components/Auth';
 
 function App() {
   const [greeting, setGreeting] = useState('');
@@ -14,17 +15,7 @@ function App() {
   }
 
   return (
-    <main>
-      <img src="/logo2.svg" alt="DFINITY logo" />
-      <br />
-      <br />
-      <form action="#" onSubmit={handleSubmit}>
-        <label htmlFor="name">Enter your name: &nbsp;</label>
-        <input id="name" alt="Name" type="text" />
-        <button type="submit">Click Me!</button>
-      </form>
-      <section id="greeting">{greeting}</section>
-    </main>
+    <Auth/>
   );
 }
 
