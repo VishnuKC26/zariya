@@ -16,7 +16,7 @@ export default function Auth() {
         await initAuth();
         const actor = getActor();
         setIsAuthenticated(actor !== null);
-        console.log(actor);
+        console.log("Actor Here",actor);
       } catch (err) {
         console.error("Authentication check failed:", err);
         setError("Failed to check authentication status");
@@ -57,6 +57,7 @@ export default function Auth() {
     setDonationMsg("");
     try {
       const actor = getActor();
+      console.log("Got Actor", actor);
       const result = await actor.donate(ngoId, BigInt(amount));
       setDonationMsg(result);
     } catch (err) {
