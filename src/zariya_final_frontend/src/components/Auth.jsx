@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { initAuth, login, logout, getActor } from "../utils/auth";
+import { initAuth, login, logout, getActor, getId } from "../utils/auth";
 
 export default function Auth() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -54,17 +54,31 @@ export default function Auth() {
   };
 
   const handleDonate = async () => {
-    setDonationMsg("");
+    setDonationMsg(""); // Clear the donation message
     try {
+      // Ensure the actor is initialized and accessible
       const actor = getActor();
-      console.log("Got Actor", actor);
-      const result = await actor.donate(ngoId, BigInt(amount));
+      if (!actor) {
+        throw new Error("Actor not initialized. Please log in.");
+      }
+      
+      // Retrieve the principal from the actor's identity
+      const userPrincipal = getId().getPrincipal();
+      console.log("Current principal:", userPrincipal);
+  
+      // Call the donate function from the canister
+      const result = await actor.donate(ngoId, BigInt(amount),userPrincipal);
+      console.log("Donation successful:", result);
+      
+      // Set the donation success message
       setDonationMsg(result);
     } catch (err) {
       console.error("Donation failed:", err);
+      // Set the donation failure message
       setDonationMsg("❌ Failed to donate: " + err.message);
     }
   };
+  
 
   const fetchDonations = async () => {
     try {

@@ -1,0 +1,130 @@
+[
+    {
+      "question": "Hello",
+      "answer": "Hello! I'm Zariya, your NGO assistance chatbot. How can I help you today? Are you looking for a specific cause to support or do you have questions about the platform?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi there! I'm Zariya, your NGO assistance chatbot. How can I help you today? Are you looking for a specific cause to support or do you have questions about the platform?"
+    },
+    {
+      "question": "Hey",
+      "answer": "Hey! I'm Zariya, your NGO assistance chatbot. How can I help you today? Are you looking for a specific cause to support or do you have questions about the platform?"
+    },
+    {
+      "question": "How are you",
+      "answer": "I'm doing well, thanks for asking! I'm here to help you find NGOs to support or answer questions about donations. What can I assist you with today?"
+    },
+    {
+      "question": "What can you do",
+      "answer": "I can help you find NGOs based on causes you care about, answer questions about donations and the platform, and provide information about various charitable organizations. What are you interested in supporting today?"
+    },
+    {
+      "question": "Who are you",
+      "answer": "I'm Zariya, an AI assistant that helps connect people with verified NGOs and charitable causes. I can recommend organizations based on your interests and answer questions about the donation process."
+    },
+    {
+      "question": "Thanks",
+      "answer": "You're welcome! If you have any other questions or need help finding NGOs to support, I'm here to assist you."
+    },
+    {
+      "question": "Thank you",
+      "answer": "You're welcome! If you have any other questions or need help finding NGOs to support, I'm here to assist you."
+    },
+    {
+      "question": "Is my donation tax deductible?",
+      "answer": "Yes, most verified NGOs on our platform provide 80G receipts for tax deduction. You'll receive it via email after donation."
+    },
+    {
+      "question": "How do I know the NGO is trustworthy?",
+      "answer": "Each NGO goes through a vetting process. Look for the 'Verified' or 'Trusted' badge in their profile."
+    },
+    {
+      "question": "Can I donate to multiple causes?",
+      "answer": "Absolutely! You can choose as many causes or NGOs as you like, and split your donations accordingly."
+    },
+    {
+      "question": "What does 'Pending Verification' mean?",
+      "answer": "These NGOs are newer or under review. You can still donate, but we recommend Verified ones for disaster or urgent needs."
+    },
+    {
+      "question": "How are NGOs selected to be on the platform?",
+      "answer": "NGOs go through a curation and vetting process where we verify their registration, track record, and past impact."
+    },
+    {
+      "question": "What is a 'Trusted' badge?",
+      "answer": "A 'Trusted' badge means the NGO has consistently demonstrated high transparency, impact, and user trust."
+    },
+    {
+      "question": "Can I see past work done by an NGO?",
+      "answer": "Yes, most NGO profiles include past impact reports, stories, or visual evidence of their initiatives."
+    },
+    {
+      "question": "What happens if an NGO misuses funds?",
+      "answer": "We investigate reports seriously. NGOs found misusing funds are blacklisted and removed from the platform."
+    },
+    {
+      "question": "Are international donations accepted?",
+      "answer": "Yes, we accept donations from abroad. Currency conversion and applicable fees are handled during checkout."
+    },
+    {
+      "question": "Is there a minimum donation amount?",
+      "answer": "The minimum donation amount varies by NGO but generally starts at ₹50 or $1."
+    },
+    {
+      "question": "Can I get a donation receipt?",
+      "answer": "Yes, you will receive a digital receipt via email once your donation is processed."
+    },
+    {
+      "question": "How do I track the impact of my donation?",
+      "answer": "We provide periodic updates from NGOs, and you can also view impact reports in your dashboard."
+    },
+    {
+      "question": "Can I donate anonymously?",
+      "answer": "Absolutely! You can choose to hide your name and contact details while donating."
+    },
+    {
+      "question": "Do you charge any platform fee?",
+      "answer": "We don't charge donors. A small fee may be deducted by payment gateways to process the transaction."
+    },
+    {
+      "question": "Can I cancel or refund a donation?",
+      "answer": "Donations are usually non-refundable, but you can reach out to our support team for special cases."
+    },
+    {
+      "question": "How do I contact the NGO directly?",
+      "answer": "Each NGO profile includes a website or contact details if you'd like to reach out personally."
+    },
+    {
+      "question": "Can I volunteer instead of donating?",
+      "answer": "Yes, some NGOs accept volunteers. Look for the 'Volunteer Opportunities' section on their profile."
+    },
+    {
+      "question": "How frequently can I donate?",
+      "answer": "As frequently as you like! You can also set up recurring monthly donations."
+    },
+    {
+      "question": "Can I donate to a disaster fund directly?",
+      "answer": "Yes, during emergencies we highlight verified relief funds and NGOs working in affected areas."
+    },
+    {
+      "question": "How do I know my donation reached the NGO?",
+      "answer": "We notify you once the transaction is successful, and NGOs confirm receipt on their end."
+    },
+    {
+      "question": "What if I don't find a cause I care about?",
+      "answer": "You can suggest a cause, and we'll try to onboard NGOs aligned with your interest."
+    },
+    {
+      "question": "Is my payment information secure?",
+      "answer": "Yes, all transactions are encrypted and processed through trusted payment gateways."
+    },
+    {
+      "question": "Can I gift a donation to someone?",
+      "answer": "Yes, you can make a donation in someone else's name and send them a personalized message."
+    },
+    {
+      "question": "What is a general fund?",
+      "answer": "A general fund allows us to allocate donations to the most urgent or underfunded causes on your behalf."
+    }
+  ]

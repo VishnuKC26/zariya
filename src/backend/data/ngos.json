@@ -1,0 +1,315 @@
+[    
+    {
+        "name": "Narayan Seva Sansthan",
+        "cause": "Child Welfare",
+        "impact": "Supports differently-abled individuals and underprivileged children through medical aid and rehabilitation.",
+        "trust_rating": "Verified",
+        "location": "Udaipur",
+        "website": "https://narayanseva.org"
+      },
+      {
+        "name": "Chintan NGO",
+        "cause": "Child Welfare",
+        "impact": "Empowers children and waste-pickers by integrating environmental justice with social equity.",
+        "trust_rating": "Verified",
+        "location": "Udaipur",
+        "website": "https://chintan-india.org"
+      },
+      {
+        "name": "Dog Home Foundation",
+        "cause": "Dog Care",
+        "impact": "Provides shelter, food, and medical care to hundreds of stray and injured dogs in Jodhpur.",
+        "trust_rating": "Verified",
+        "location": "Jodhpur",
+        "website": "https://doghomefoundation.com"
+      },
+      {
+        "name": "Education First",
+        "cause": "Education",
+        "impact": "Provides scholarships and learning materials to children from low-income communities.",
+        "trust_rating": "Verified",
+        "location": "Chennai",
+        "website": "https://educationfirst.org.in"
+      },
+      {
+        "name": "Health4All",
+        "cause": "Healthcare",
+        "impact": "Delivers essential healthcare services through mobile clinics and health camps in underserved areas.",
+        "trust_rating": "Verified",
+        "location": "Kolkata",
+        "website": "https://health4all.org.in"
+      },
+      {
+        "name": "Food Relief",
+        "cause": "Hunger",
+        "impact": "Distributes nutritious meals to homeless and low-income families while reducing food waste.",
+        "trust_rating": "Verified",
+        "location": "Pune",
+        "website": "https://foodrelief.in"
+      },
+      {
+        "name": "Women Rise",
+        "cause": "Women Empowerment",
+        "impact": "Empowers women through skill-building, legal awareness, and entrepreneurship support programs.",
+        "trust_rating": "Verified",
+        "location": "Jaipur",
+        "website": "https://womenrise.org"
+      },
+      {
+        "name": "Clean Future",
+        "cause": "Sanitation",
+        "impact": "Promotes hygiene by building toilets and conducting cleanliness and menstrual health awareness drives.",
+        "trust_rating": "Verified",
+        "location": "Lucknow",
+        "website": "https://bluecrossofindia.org"
+      },
+      {
+        "name": "TechBridge",
+        "cause": "Tech Education",
+        "impact": "Bridges the digital divide by offering coding bootcamps and tech skills training to underprivileged youth.",
+        "trust_rating": "Verified",
+        "location": "Hyderabad",
+        "website": "https://www.akshayapatra.org"
+      },
+    
+    {
+      "name": "ReliefAssam",
+      "cause": "Flood Relief",
+      "impact": "Provided emergency food, clean water, and shelter kits to over 10,000 displaced families in Assam.",
+      "trust_rating": "Verified",
+      "location": "Assam",
+      "website": "https://reliefassam.org"
+    },
+    {
+      "name": "EduFuture",
+      "cause": "Child Education",
+      "impact": "Supports 500 underprivileged children with school fees, uniforms, and mentorship programs.",
+      "trust_rating": "Verified",
+      "location": "Pan India",
+      "website": "https://edufuture.in"
+    },
+    {
+      "name": "HealWell Foundation",
+      "cause": "Cancer Care",
+      "impact": "Provides subsidized chemotherapy and counseling to 300+ low-income cancer patients annually.",
+      "trust_rating": "Trusted",
+      "location": "Delhi NCR",
+      "website": "https://healwell.org"
+    },
+    {
+      "name": "GreenHope",
+      "cause": "Environment",
+      "impact": "Planted over 50,000 trees and runs climate awareness drives in urban schools.",
+      "trust_rating": "Verified",
+      "location": "Bangalore",
+      "website": "https://greenhope.org"
+    },
+    {
+      "name": "Sahara Women Trust",
+      "cause": "Women Empowerment",
+      "impact": "Trained 800+ women in digital literacy and micro-entrepreneurship.",
+      "trust_rating": "Pending Verification",
+      "location": "Rajasthan",
+      "website": "https://saharawomen.org"
+    },
+    {
+      "name": "Paws and Care",
+      "cause": "Animal Welfare",
+      "impact": "Vaccinated and rescued over 2000 stray animals across major cities.",
+      "trust_rating": "Verified",
+      "location": "Mumbai",
+      "website": "https://pawsandcare.in"
+    },
+    {
+      "name": "Vision360",
+      "cause": "Blind Assistance",
+      "impact": "Provides Braille kits, audio books, and mobility training to 1000+ visually impaired people.",
+      "trust_rating": "Trusted",
+      "location": "Chennai",
+      "website": "https://vision360.org"
+    },
+    {
+      "name": "Skill4All",
+      "cause": "Youth Skilling",
+      "impact": "Offers free vocational training to 1,500+ rural youth every year.",
+      "trust_rating": "Verified",
+      "location": "Odisha",
+      "website": "https://skill4all.org"
+    },
+    {
+      "name": "FeedingIndia",
+      "cause": "Hunger Relief",
+      "impact": "Serves daily meals to 20,000+ homeless and underserved people.",
+      "trust_rating": "Trusted",
+      "location": "Pan India",
+      "website": "https://feedingindia.org"
+    },
+    {
+      "name": "SanRaksha",
+      "cause": "Menstrual Health",
+      "impact": "Distributed eco-friendly sanitary kits to 10,000 women in rural villages.",
+      "trust_rating": "Verified",
+      "location": "Uttarakhand",
+      "website": "https://sanraksha.org"
+    },
+    {
+      "name": "BrightSteps",
+      "cause": "Child Education",
+      "impact": "Runs after-school programs for slum children in 5 cities.",
+      "trust_rating": "Pending Verification",
+      "location": "Hyderabad",
+      "website": "https://brightsteps.in"
+    },
+    {
+      "name": "EarthSavers",
+      "cause": "Environment",
+      "impact": "Cleaned 20+ urban lakes and hosts zero-waste community drives.",
+      "trust_rating": "Verified",
+      "location": "Pune",
+      "website": "https://earthsavers.org"
+    },
+    {
+      "name": "SafeShelter",
+      "cause": "Homeless Aid",
+      "impact": "Runs 24/7 safe shelters with food and healthcare access for over 300 people.",
+      "trust_rating": "Trusted",
+      "location": "Delhi",
+      "website": "https://safeshelter.org"
+    },
+    {
+      "name": "CareBridge",
+      "cause": "Elderly Care",
+      "impact": "Supports 500+ senior citizens with healthcare and companionship programs.",
+      "trust_rating": "Verified",
+      "location": "Kerala",
+      "website": "https://carebridge.in"
+    },
+    {
+      "name": "AgriHelp",
+      "cause": "Farmer Welfare",
+      "impact": "Educates farmers in sustainable agriculture and provides micro-loans.",
+      "trust_rating": "Verified",
+      "location": "Maharashtra",
+      "website": "https://agrihelp.org"
+    },
+    {
+      "name": "Hope4Life",
+      "cause": "Mental Health",
+      "impact": "Provides free therapy sessions and suicide prevention helplines.",
+      "trust_rating": "Trusted",
+      "location": "Bangalore",
+      "website": "https://hope4life.in"
+    },
+    {
+      "name": "TechAccess",
+      "cause": "Digital Inclusion",
+      "impact": "Donated 1000+ refurbished laptops to low-income students.",
+      "trust_rating": "Verified",
+      "location": "Ahmedabad",
+      "website": "https://techaccess.org"
+    },
+    {
+      "name": "RescueAid",
+      "cause": "Disaster Relief",
+      "impact": "Responded to 10+ disasters with rapid deployment teams and essential kits.",
+      "trust_rating": "Pending Verification",
+      "location": "Pan India",
+      "website": "https://rescueaid.org"
+    },
+    {
+      "name": "EqualRights Foundation",
+      "cause": "LGBTQ+ Support",
+      "impact": "Offers counseling, shelter, and job training to LGBTQ+ youth.",
+      "trust_rating": "Verified",
+      "location": "Kolkata",
+      "website": "https://equalrights.in"
+    },
+    {
+      "name": "BetiUdaan",
+      "cause": "Girl Child Empowerment",
+      "impact": "Helps young girls access education, safety, and career mentorship.",
+      "trust_rating": "Trusted",
+      "location": "Uttar Pradesh",
+      "website": "https://betiudaan.org"
+    },
+    {
+      "name": "TeachTribe",
+      "cause": "Rural Education",
+      "impact": "Places volunteer teachers in underserved village schools.",
+      "trust_rating": "Verified",
+      "location": "Jharkhand",
+      "website": "https://teachtribe.in"
+    },
+    {
+      "name": "CleanCity",
+      "cause": "Waste Management",
+      "impact": "Trains communities in waste segregation and plastic recycling.",
+      "trust_rating": "Pending Verification",
+      "location": "Indore",
+      "website": "https://cleancity.org"
+    },
+    {
+      "name": "DisabilityFirst",
+      "cause": "Disability Support",
+      "impact": "Provides prosthetics, education, and mobility aids to 800+ beneficiaries.",
+      "trust_rating": "Trusted",
+      "location": "Chandigarh",
+      "website": "https://disabilityfirst.in"
+    },
+    {
+      "name": "MicroHope",
+      "cause": "Microfinance",
+      "impact": "Supports 3000+ rural women with micro-loans to start small businesses.",
+      "trust_rating": "Verified",
+      "location": "Madhya Pradesh",
+      "website": "https://microhope.org"
+    },
+    {
+      "name": "GreenMinds",
+      "cause": "Mental Health",
+      "impact": "Runs nature therapy camps and mental wellness workshops for teens.",
+      "trust_rating": "Pending Verification",
+      "location": "Himachal Pradesh",
+      "website": "https://greenminds.in"
+    },
+    {
+      "name": "JeevanJyoti",
+      "cause": "Blood Donation",
+      "impact": "Organized 200+ blood drives and helped connect thousands of donors.",
+      "trust_rating": "Verified",
+      "location": "Lucknow",
+      "website": "https://jeevanjyoti.org"
+    },
+    {
+      "name": "CleanWaterNow",
+      "cause": "Water Access",
+      "impact": "Installed 100+ water filters and borewells in arid villages.",
+      "trust_rating": "Trusted",
+      "location": "Telangana",
+      "website": "https://cleanwaternow.org"
+    },
+    {
+      "name": "HopeInHands",
+      "cause": "Child Rescue",
+      "impact": "Rescued 800+ trafficked or abandoned children and reunited families.",
+      "trust_rating": "Verified",
+      "location": "West Bengal",
+      "website": "https://hopeinhands.org"
+    },
+    {
+      "name": "VastraDaan",
+      "cause": "Clothing Donation",
+      "impact": "Collected and distributed 50,000+ clothes to homeless communities.",
+      "trust_rating": "Pending Verification",
+      "location": "Nagpur",
+      "website": "https://vastradaan.in"
+    },
+    {
+      "name": "MedAssist",
+      "cause": "Healthcare Access",
+      "impact": "Runs mobile medical vans in tribal areas to provide checkups and medicine.",
+      "trust_rating": "Verified",
+      "location": "Chhattisgarh",
+      "website": "https://medassist.org"
+    }
+  ]

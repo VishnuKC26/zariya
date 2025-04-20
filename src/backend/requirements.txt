@@ -1,0 +1,26 @@
+# FastAPI and server
+fastapi
+uvicorn
+
+# Data handling
+pydantic
+python-multipart
+requests
+aiohttp
+
+# LLM & RAG support
+langchain
+openai  # Only if you're using OpenAI models, else you can omit
+ollama  # For local LLMs like mistral
+
+# NLP
+spacy
+tqdm
+numpy
+
+# If you use sentence embeddings or vector search
+sentence-transformers
+faiss-cpu  # If using FAISS for retrieval (you can skip if not)
+
+# Optional: file operations, parsing
+python-dotenv
